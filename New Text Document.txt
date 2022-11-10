@@ -1,0 +1,5 @@
+Smart Chain
+https://bsc-dataseed.binance.org/
+56
+BNB
+https://www.bscscan.com/
